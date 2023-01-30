@@ -1,0 +1,72 @@
+.flex {
+  display: flex;
+}
+.justify-space {
+  justify-content: center;
+}
+.justify-between {
+  justify-content: space-between;
+}
+
+.text-align {
+  text-align: center;
+}
+.pxy{
+  padding: 10px;
+}
+.px-2 {
+  padding: 0 15px;
+}
+
+.px-4 {
+  padding: 0 25px;
+}
+
+.px-5 {
+  padding: 0 66px;
+}
+.py-2 {
+  padding: 20px 0;
+}
+
+.py-4 {
+  padding: 40px 0;
+}
+
+.list-none {
+  list-style-type: none;
+}
+
+.text-decoration {
+  text-decoration: none;
+}
+
+.text {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.block {
+  display: block;
+}
+
+.black {
+  color: black;
+}
+
+.px {
+  padding: 15.3px 10px;
+}
+
+.border {
+  border-bottom: 1px solid #d0d9d4;
+}
+
+.img-height {
+  width: 64px;
+  height: 64px;
+}
+
+.pr{
+  padding-right: 60px;
+}

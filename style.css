@@ -398,7 +398,12 @@ nav .flex .logindropdown .login-btn a {
   padding-left: 22px;
 }
 
-.item-text:hover {
+.item-text a {
+  text-decoration: none;
+  color: black;
+}
+.item-text:hover,
+.item-text a:hover {
   color: #2874f0;
 }
 
